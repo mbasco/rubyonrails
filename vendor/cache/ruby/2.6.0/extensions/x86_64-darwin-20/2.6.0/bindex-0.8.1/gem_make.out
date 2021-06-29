@@ -1,0 +1,15 @@
+current directory: /Users/MBASCO/code/mbasco/rails-stupid-coaching/vendor/cache/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/MBasco/.rbenv/versions/2.6.6/bin/ruby -I /Users/MBasco/.rbenv/versions/2.6.6/lib/ruby/2.6.0 -r ./siteconf20210629-59281-1yw4i9v.rb extconf.rb
+creating Makefile
+
+current directory: /Users/MBASCO/code/mbasco/rails-stupid-coaching/vendor/cache/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/MBASCO/code/mbasco/rails-stupid-coaching/vendor/cache/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/MBASCO/code/mbasco/rails-stupid-coaching/vendor/cache/ruby/2.6.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20210629-59281-18yzrpt/skiptrace/internal
